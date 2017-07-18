@@ -109,7 +109,7 @@ Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org - översättn
 "lng_status_lastseen_minutes"= "senast här för {count:_not_used_|# minut|# minuter} sedan";
 "lng_status_lastseen_hours"= "senast här för {count:_not_used_|# timme|# timmar} sedan";
 "lng_status_lastseen_hours#one" = "senast här för {count} timme sedan";
-"lng_status_lastseen_hours#other" = "senast här för {count} timamr sedan";
+"lng_status_lastseen_hours#other" = "senast här för {count} timmar sedan";
 "lng_status_lastseen_today"= "senast här idag kl. {time}";
 "lng_status_lastseen_yesterday" = "senaste här igår kl. {time}";
 "lng_status_lastseen_date"= "senast här {date}";
