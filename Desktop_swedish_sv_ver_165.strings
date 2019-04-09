@@ -193,7 +193,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_code_calling"= "Begär uppringning från Telegram..";
 "lng_code_called"= "Telegram ringde ditt nummer";
 
-
+"lng_bad_phone" = "Ogiltigt telefonnummer. Prova igen.";
 "lng_bad_phone_noreg"= "Mobilnumret är inte registrerat.";
 "lng_bad_code"= "Du matade en ogiltig kod. Försök igen.";
 "lng_bad_name"= "Mata in för- och efternamn.";
