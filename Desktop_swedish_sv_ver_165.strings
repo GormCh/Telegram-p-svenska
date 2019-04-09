@@ -1573,7 +1573,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_rights_chat_send_stickers" = "Skicka Stickers & GIFar";
 "lng_rights_chat_send_links" = "Bädda in länkar";
 "lng_rights_chat_send_polls" = "Skicka omröstningar";
-"lng_rights_chat_add_members" = "Lägga till medlemamr";
+"lng_rights_chat_add_members" = "Lägga till medlemmar";
 "lng_rights_chat_banned_until_header" = "Begränsad till";
 "lng_rights_chat_banned_forever" = "För gott";
 "lng_rights_chat_banned_day#one" = "För {count} dag";
