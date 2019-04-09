@@ -841,7 +841,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_manage_history_visibility_shown_about" = "Nya medlemmar kommer att kunna se meddelanden för tiden innan de gick med.";
 "lng_manage_history_visibility_hidden" = "Dold";
 "lng_manage_history_visibility_hidden_about" = "Nya medlemmar kan inte se tidigare meddelanden.";
-"lng_manage_history_visibility_hidden_legacy" = "Nya medlemmar kan se fler än 100 tidigare meddelanden.";
+"lng_manage_history_visibility_hidden_legacy" = "Nya medlemmar kan inte se fler än 100 tidigare meddelanden.";
 
 "lng_report_title" = "Rapportera kanal";
 "lng_report_group_title" = "Rapportera grupp";
