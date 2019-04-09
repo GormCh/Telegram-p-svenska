@@ -194,7 +194,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_code_called"= "Telegram ringde ditt nummer";
 
 "lng_bad_phone" = "Ogiltigt telefonnummer. Prova igen.";
-"lng_bad_phone_noreg"= "Mobilnumret är inte registrerat.";
+"lng_bad_phone_noreg"= "Telefonnumret är inte registrerat.";
 "lng_bad_code"= "Du matade en ogiltig kod. Försök igen.";
 "lng_bad_name"= "Mata in för- och efternamn.";
 "lng_bad_photo"= "Markerad bild är dålig.";
@@ -256,7 +256,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_settings_drop_area_subtitle" = "välj som din profilbild";
 
 "lng_username_title"= "Användarnamn";
-"lng_username_about"= "Du kan välja ett användarnamn på Telegram.\nOm så sker kommer andra att kunna hitta \ndig på användarnamnet och kontakta dig\nutan att det känner till ditt mobilnummer.\n\nYou can use a-z, 0-9 and underscores.\nMinsta längd är 5 tecken.";
+"lng_username_about"= "Du kan välja ett användarnamn på Telegram.\nOm så sker kommer andra att kunna hitta \ndig på användarnamnet och kontakta dig\nutan att det känner till ditt telefonnummer.\n\nYou can use a-z, 0-9 and underscores.\nMinsta längd är 5 tecken.";
 "lng_username_choose"= "Välj användarnamn.";
 "lng_username_invalid"= "Namnet är ogiltigt.";
 "lng_username_occupied"= "Namnet är upptaget.";
@@ -273,7 +273,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_bio_about" = "Du kan lägga till ett par rader om dig själv. Alla som läser din profil kan läsa texten.";
 
 "lng_settings_section_contact_info"= "Kontaktinfo";
-"lng_settings_phone_number"= "Mobilnummer:";
+"lng_settings_phone_number"= "Telefonnummer:";
 "lng_settings_username"= "Välj användarnamn:";
 "lng_settings_choose_username"= "Inget";
 
@@ -584,7 +584,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 
 "lng_sessions_header"= "Pågående session";
 "lng_sessions_other_header"= "Aktiva sessioner";
-"lng_sessions_other_desc"= "Du kan logga in på Telegram från en annan mobil, läsplatta eller stationär, och använda samma mobilnummer. Alla dina data kommer att synkroniseras direkt.";
+"lng_sessions_other_desc"= "Du kan logga in på Telegram från en annan telefon, läsplatta eller stationär, och använda samma telefonnummer. Alla dina data kommer att synkroniseras direkt.";
 "lng_sessions_terminate_all"= "Avsluta alla andra sessioner";
 "lng_sessions_terminate_all_about" = "Loggar ut alla sessioner utom den här.";
 "lng_sessions_incomplete" = "Ofullbordat inloggningsförsök";
@@ -683,7 +683,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_change_phone_new_description" = "Du kommer att få ett sms med en bekräftelsekod till ditt nya nummer.";
 "lng_change_phone_new_submit" = "Skicka";
 "lng_change_phone_code_title" = "Mata in kod";
-"lng_change_phone_code_description" = "Vi har skickat ett sms med en bekräftelsekod till din mobil {phone}.";
+"lng_change_phone_code_description" = "Vi har skickat ett sms med en bekräftelsekod till din telefon {phone}.";
 "lng_change_phone_success" = "Ditt nummer har ändrats.";
 
 "lng_mute_duration_hours#one" = "I {count} timme";
@@ -707,7 +707,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_profile_common_groups#one" = "{count} grupp i Allmänna";
 "lng_profile_common_groups#other" = "{count} grupper i Allmänna";
 "lng_profile_participants_section" = "Medlemmar";
-"lng_profile_mobile_number" = "Mobil:";
+"lng_profile_mobile_number" = "Telefon:";
 "lng_profile_username" = "Användarnamn";
 "lng_profile_link" = "Link:";
 "lng_profile_bio" = "Bio:";
@@ -765,7 +765,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 
 "lng_profile_info_section" = "Info";
 "lng_info_tab_media" = "Media";
-"lng_info_mobile_label" = "Mobil";
+"lng_info_mobile_label" = "Telefon";
 "lng_info_username_label" = "Användarnamn";
 "lng_info_bio_label" = "Bio";
 "lng_info_link_label" = "Länk";
@@ -907,8 +907,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_create_channel_crop"= "Markera en kvadratisk area för kanalbild";
 
 "lng_failed_add_participant"= "Det gick inte att lägga till en användare. Försök igen senare.";
-"lng_failed_add_not_mutual"= "Beklagar, om en person lämnar en grupp kan endast en gemensam kontakt återföra den (de måste ha ditt mobilnummer och du deras).";
-"lng_failed_add_not_mutual_channel"= "Beklagar, om en person lämnar en kanal kan endast en gemensam kontakt återföra den (de måste ha ditt mobilnummer och du deras).";
+"lng_failed_add_not_mutual"= "Beklagar, om en person lämnar en grupp kan endast en gemensam kontakt återföra den (de måste ha ditt telefonnummer och du deras).";
+"lng_failed_add_not_mutual_channel"= "Beklagar, om en person lämnar en kanal kan endast en gemensam kontakt återföra den (de måste ha ditt telefonnummer och du deras).";
 
 "lng_sure_delete_contact"= "Är du säker på att du vill ta bort {contact} från din Kontaktlista?";
 "lng_sure_delete_history"= "Är du säker på att du vill hela chathistoriken med {contact}?\n\nÅtgärden kan inte ångras.";
@@ -986,10 +986,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_action_secure_phone" = "telefonnummer";
 "lng_action_secure_email" = "e-postadress";
 
-"lng_ttl_photo_received" = "{from} skickade en självraderande bild. Se den i mobilen.";
+"lng_ttl_photo_received" = "{from} skickade en självraderande bild. Se den i telefonen.";
 "lng_ttl_photo_sent" = "Du skickade en självraderande bild.";
 "lng_ttl_photo_expired" = "Bilden har utgått";
-"lng_ttl_video_received" = "{from} skickade en självraderande video. Se den ni mobilen.";
+"lng_ttl_video_received" = "{from} skickade en självraderande video. Se den ni telefonen.";
 "lng_ttl_video_sent" = "Du skickade en självraderande video.";
 "lng_ttl_video_expired" = "Videon har utgått";
 
@@ -1051,7 +1051,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_cancel_edit_post_no" = "Nej";
 
 "lng_bot_share_location_unavailable" = "Beklagar men platsdata är f.n. inte tillgängligt i Telegram Desktop.";
-"lng_bot_share_phone" = "Dela mobilnummer?";
+"lng_bot_share_phone" = "Dela telefonnummer?";
 "lng_bot_share_phone_confirm" = "Dela";
 
 "lng_attach_failed"= "Misslyckades";
@@ -1469,7 +1469,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 
 "lng_confirm_phone_link_invalid" = "Länken är bruten eller utgått.";
 "lng_confirm_phone_title" = "Avbryt kontoåterställning";
-"lng_confirm_phone_about" = "Någon med tillgång till ditt mobilnummer {phone} har begärt att ta bort ditt telegramkonto och återställa lösenordet för din 2-stegsverfiering.\n\nOm detta inte är du var snäll och mata in koden som vi nyss skickat dig via sms.";
+"lng_confirm_phone_about" = "Någon med tillgång till ditt telefonnummer {phone} har begärt att ta bort ditt telegramkonto och återställa lösenordet för din 2-stegsverfiering.\n\nOm detta inte är du var snäll och mata in koden som vi nyss skickat dig via sms.";
 "lng_confirm_phone_success" = "Lyckades!\n\nRaderingsprocessen av ditt konto {phone} avbröts. Du kan stänga det här fönstret nu.";
 "lng_confirm_phone_send" = "Skicka";
 "lng_confirm_phone_enter_code" = "Vg mata in koden.";
