@@ -1957,7 +1957,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL \n Översättning 
 "lng_polls_votes_none" = "Inga röster";
 "lng_polls_retract" = "Återkalla röstningen";
 "lng_polls_stop" = "Avsluta omröstning";
-"lng_polls_stop_warning" = "Om du avslutar omröstnngen nu kommer ingen eftr det att kunna rösta. Åtgärden kan inte ångras.";
+"lng_polls_stop_warning" = "Om du avslutar omröstningen nu kommer ingen eftr det att kunna rösta. Åtgärden kan inte ångras.";
 "lng_polls_stop_sure" = "Avsluta";
 "lng_polls_create" = "Skapa omröstning";
 "lng_polls_create_title" = "Ny omröstning";
